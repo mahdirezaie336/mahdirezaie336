@@ -1,7 +1,17 @@
-### Hi there 👋
-#### My Stats
+<h3 align="center"> Hi there 👋 </h3>
 
-<br>
+<p align="center">
+I'm Mahdi. I'm interested in AI and computer networks and I'm studying them at Amirkabir University of Technology.
+</p>
 
-![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahdirezaie336&theme=solarized)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahdirezaie336&theme=solarized) ![Mahdi's Github Stats](https://github-readme-stats.vercel.app/api?username=mahdirezaie336&show_icons=true&theme=solarized-light&hide_border=true)
+### My Skills
+<hr/>
+
+<p align="center">
+<img src="images/skills.png" width="50%"/>
+</p>
+
+### My Stats
+<hr/>
+
+![Mahdi's Github Stats](https://github-readme-stats.vercel.app/api?username=mahdirezaie336&show_icons=true&theme=solarized-light&hide_border=true)
