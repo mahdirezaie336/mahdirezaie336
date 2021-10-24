@@ -8,7 +8,7 @@ I'm Mahdi. I'm interested in AI and computer networks and I'm studying them at A
 <hr/>
 
 <p align="center">
-<img src="images/skills.png" width="50%"/>
+<img src="images/skills.png">
 </p>
 
 ### My Stats
