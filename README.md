@@ -2,13 +2,11 @@
 <img src="images/header.png" width="100%">
 </p>
 
-<h3 align="center"> Hi there 👋 </h3>
-
+<h2 align="center"> Hi there 👋 </h3>
+<hr>
 <p align="center">
 I'm Mahdi. I'm interested in AI and computer networks and I'm studying them at Amirkabir University of Technology.
 </p>
-
-<hr>
 
 <p align="center">
 <img src="images/skills.png" width="60%">
