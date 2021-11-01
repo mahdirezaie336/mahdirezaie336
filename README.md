@@ -12,7 +12,6 @@ I'm Mahdi. I'm interested in AI and computer networks and I'm studying them at A
 <img src="images/skills.png" width="60%">
 </p>
 
-
 <hr>
 
 <div align="center">
@@ -30,6 +29,12 @@ I'm Mahdi. I'm interested in AI and computer networks and I'm studying them at A
 </a>
 <a href="https://twitter.com/mahdirezaie336">
 <img src="images/tw.png" width="32px">
+</a>
+</div>
+
+<div align="center">
+<a href="https://t.me/BiChatBot?start=sc-460482-KJ7gbvs">
+<img src="images/mask.png" width="128px">
 </a>
 </div>
 
