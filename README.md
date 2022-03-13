@@ -8,10 +8,6 @@
 I'm Mahdi. I'm interested in AI and computer networks and I'm studying them at Amirkabir University of Technology.
 </p>
 
-<p align="center">
-<img src="images/skills.png" width="60%">
-</p>
-
 <hr>
 
 <div align="center">
